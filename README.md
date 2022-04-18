@@ -1,4 +1,4 @@
-#sobre mim
+# sobre mim
 - ola sou o fernando
 - estou criando esta conta pois faço o curso do alura
 - estou estudando  no primeiro ano
